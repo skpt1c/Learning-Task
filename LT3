@@ -1,0 +1,117 @@
+<DOCTYPE!html>
+<html>
+<head>
+<style>
+	.content
+	{
+		max-width: 960px;
+		margin: auto;
+	}
+	.container
+	{
+		text-align: center;
+	}
+	.wrapper
+	{
+		width: 1000px;
+		height: 1000px
+		padding: 5px;
+		border: 5px solid blue;
+		font-size: 50px;
+	}
+	.wrapper div
+	{
+		border: 5px double blue;
+		margin: 5px;
+		float: left;
+	}
+	.a
+	{
+		font-size: 20px;
+		
+	}
+	.b
+	{
+		font-size: 20px;
+	}
+	.c
+	{
+		font-size: 20px;
+	}
+	.d
+	{
+		font-size: 20px;
+	}
+	.e
+	{
+		font-size: 20px;
+	}
+	.f
+	{
+		font-size: 20px;
+	}
+	.g
+	{
+		font-size: 20px;
+	}
+	.h
+	{
+		font-size: 20px;
+	}
+	.i
+	{
+		font-size: 20px;
+	}
+	.j
+	{
+		font-size: 20px;
+	}
+</style>
+</head>
+<body>
+	<div class = "content">
+	<div class = "container">
+	<div class = "wrapper">
+	Top 10 Anime Girls That Increase My Serotonin <br>
+		<div class = "a"> No. 1 Kaguya Shinomiya (四宮 かぐや) <br> 
+			<img src = "kaguya.gif": height = "200px": width = "200px"> <br>
+				She's the perfect balance of really <br> 
+				smart and dumb at the same time </div>
+		<div class = "b"> No. 2 Yukino Yukinoshita (雪ノ下 雪乃) <br>
+			<img src = "yukino.gif": height = "200px": width = "200px"> <br>
+				Truly the greatest ice queen <br>
+				that can melt someones heart </div>
+		<div class = "c"> No. 3 Miku Nakano (中野 三玖) <br>
+			<img src = "miku.gif": height = "205.5px": width = "200px"> <br>
+				She may not have won in the <br>
+				anime but she won my affection </div>
+		<div class = "d"> No. 4 Marin Kitagawa (喜多川 海夢) <br>
+			<img src = "marin.gif": height = "205.5px": width = "200px"> <br>
+				She's just a really really <br>
+				exited child </div>
+		<div class = "e"> No. 5 Shouko Komi (古見 硝子) <br>
+			<img src = "komi.gif": height = "205.5px": width = "200px"> <br>
+				She is the personification <br>
+				of the word grace </div>
+		<div class = "f"> No. 6 Kaori Miyazono (宮園 かをり) <br>
+			<img src = "kaori.gif": height = "200px": width = "200px"> <br>
+				She may be dead but that doesn't <br>
+				mean she's not the best girl </div>
+		<div class = "g"> No. 7 Mashiro Shiina (椎名 ましろ) <br>
+			<img src = "shiina.gif": height = "200px": width = "200px"> <br> 
+				The greatest airhead to have <br>
+				ever graced anime </div>
+		<div class = "h"> No. 8 Hayase Nagatoro (長瀞 早瀬) <br> 
+			<img src = "nagatoro.gif": height = "205.5px": width = "200px"> <br> 
+				She'd bully me 'til death and <br>
+				I'd still be the one apologizing</div>
+		<div class = "i"> No. 9 Mai Sakurajima (桜島 麻衣) <br>
+			<img src = "mai.gif": height = "205.5px": width = "200px"> <br>
+				She gives off the aura of maturity <br>
+				and responsibility </div>
+		<div class = "j"> No. 10 Sayu Ogiwara (荻原 沙優) <br>
+			<img src = "sayu.gif": height = "200px": width = "200px"> <br>
+				In Yoshida we trust <br>
+				protect Sayu we must</div>
+</body>
+</html>
